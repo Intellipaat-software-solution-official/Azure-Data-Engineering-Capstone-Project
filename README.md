@@ -1,4 +1,4 @@
-## Azure-Data-Engineering-Capstone-Project
+## Azure Data Engineering Capstone Project
 
 ### About Formula One 
 
